@@ -1,4 +1,7 @@
-# git_tutorial
-# toto
-- [ ] aaa
-- [x] bbb
+# todo
+- [ ] 测试局部反算
+- [ ] 重算
+- [ ] 局部重算
+
+# done
+- [x] 填测评
